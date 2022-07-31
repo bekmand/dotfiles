@@ -78,6 +78,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/cbk2/.local/share/nvim/site/pack/packer/start/tokyonight.nvim",
     url = "https://github.com/folke/tokyonight.nvim"
+  },
+  vimwiki = {
+    loaded = true,
+    path = "/home/cbk2/.local/share/nvim/site/pack/packer/start/vimwiki",
+    url = "https://github.com/vimwiki/vimwiki"
   }
 }
 
