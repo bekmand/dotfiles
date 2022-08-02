@@ -6,3 +6,4 @@ local xnoremap = Remap.xnoremap
 local nmap = Remap.nmap
 
 nnoremap("<leader>t", ":Ex<CR>")
+nnoremap("<leader>vt", ":VimwikiTable")
