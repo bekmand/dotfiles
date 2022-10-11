@@ -9,8 +9,8 @@ return require('packer').startup(function(use)
   use 'wbthomason/packer.nvim'
   
     -- Colorscheme
-  use 'folke/tokyonight.nvim'
-  
+  --use 'folke/tokyonight.nvim'
+  use { "catppuccin/nvim", as = "catppuccin" }
     -- vimwiki
   use 'vimwiki/vimwiki'
   
